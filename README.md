@@ -2,6 +2,8 @@
 
 - 🔭 Hoje trabalho com Desenvolvimento de APIs com Spring/Java e Aplicações com Django/Python
 - 🌱 Focado na evolução do meu ingles
+- 🎮 Co-Fundador/Desenvolvedor do Guideon Light https://www.guideonlight.com.br/
+- 📋 Desenvolvendo responsavel pelo MyScrum http://myscrum.com.br/master/home/
 
 <div>
   <a href="https://github.com/AMatiaz2201">
